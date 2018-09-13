@@ -120,7 +120,12 @@ div.desc {
         flex-direction: column;
     }
     .container {
-        font-size: 16px;    }
+        line-height:18px;
+        font-size: 12px; 
+        width: 370px;  
+        height: auto; 
+        overflow: scroll;
+    }
 }
 
 
